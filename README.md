@@ -11,14 +11,14 @@
 <!-- Introduction section -->
 ### 👨‍💻 Introduction
 <p>
-Hello, im Jeremy. After an experience of 10 years in Transport industry, i've made the choice to take a 180 degree turn into my life to come back to my first love, computers, design and coding.</br>
+Hello, im Jeremy. After an experience of 10 years in Transport industry, i've made the choice to take a 180 degree turn in my life to come back to my first love, computers, design and coding.</br>
 Creative, passionated and curious, i'm always looking forward to build beautiful things with the latest technology.
 
 I’m currently getting my **FullStack Web & Mobile Developer** certification from **Wild Code School** which is giving me great insight into modern web development needs.
 
 I am open to work 💼, so feel free to contact me on my <a href="https://www.linkedin.com/in/jeremy-dohin/">LinkedIn profile</a> 
 </p>
-<br>
+</br>
 
 <!-- Languages and Frameworks badges section -->
 
@@ -32,8 +32,8 @@ I am open to work 💼, so feel free to contact me on my <a href="https://www.li
 <img align="left" alt="ReactJS" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="Markdown" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
 </p>
-<br>
-<br>
+</br>
+</br>
 
 <!-- Softwares and Tools badges section -->
 ### 🖥️ Softwares and Tools 
@@ -47,7 +47,7 @@ I am open to work 💼, so feel free to contact me on my <a href="https://www.li
 <img align="left" alt="Meistertask" src="https://img.shields.io/badge/-Meistertask-00aaff.svg?logo=meistertask&logoColor=white"/>
 <img align="left" alt="Google suite" src="https://img.shields.io/badge/-Google Suite-yellow.svg?logo=google&logoColor=white"/>
 </p>
-<br>
+</br>
 
 #
 
