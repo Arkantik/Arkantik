@@ -1,8 +1,6 @@
 <!-- Header section -->
-<h1 align="center">Hey! I'm Jeremy, welcome to my pofile <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="hello"></h1>
-
 <p align="center">
-  <img src="https://github.com/Arkantik/Arkantik/blob/main/github%20profile1.svg" alt="Jeremy Dohin" width="400px"/></a>
+  <img src="https://github.com/Arkantik/Arkantik/blob/main/programmer%20work.png" alt="Jeremy Dohin"/></a>
   <h3 align="center">Currently upgrading to FullStack Web Developer v1.0.0</h3>
 </p>
 </br>
