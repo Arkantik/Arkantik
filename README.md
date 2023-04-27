@@ -53,7 +53,7 @@ I am open to work 💼, so feel free to contact me on my <a href="https://www.li
 
 ### 📊 My GitHub Profile Stats 
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=arkantik&show_icons=true&theme=city_lights&hide_border=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=arkantik&show_icons=true&include_all_commits=true&count_private=true&theme=city_lights&hide_border=true)
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arkantik&langs_count=8&layout=compact&theme=city_lights&hide_border=true)
           
 <i><b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
