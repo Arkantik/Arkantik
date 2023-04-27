@@ -47,10 +47,10 @@ I am open to work 💼, so feel free to contact me on my <a href="https://www.li
   <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"/></a>
   <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
   <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?logo=insomnia&logoColor=white"></a></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&logoColor=white"/></a>
-  <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"/></a>
-  <a href="#"><img alt="Meistertask" src="https://img.shields.io/badge/-Meistertask-00aaff.svg?logo=meistertask&logoColor=white"/></a>
-  <a href="#"><img alt="Google suite" src="https://img.shields.io/badge/-Google Suite-yellow.svg?logo=google&logoColor=white"/></a>
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"/></a>
+  <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white"/></a>
+  <a href="#"><img alt="Meistertask" src="https://img.shields.io/badge/Meistertask-00aaff.svg?logo=meistertask&logoColor=white"/></a>
+  <a href="#"><img alt="Google suite" src="https://img.shields.io/badge/Google Suite-yellow.svg?logo=google&logoColor=white"/></a>
 </p>
 </br>
 
