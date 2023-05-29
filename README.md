@@ -24,7 +24,7 @@ I am open to work 💼, so feel free to contact me on my <a href="https://www.li
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,sass,markdown,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,nodejs,react,tailwind,markdown,mysql,express&theme=dark" />
   </a>
 </p>
 </br>
@@ -41,6 +41,7 @@ I am open to work 💼, so feel free to contact me on my <a href="https://www.li
   <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?logo=insomnia&logoColor=white"></a></a>
   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"/></a>
   <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white"/></a>
+  <a href="#"><img alt="Clickup" src="https://img.shields.io/badge/Clickup-7B68EE.svg?logo=clickup&logoColor=white"/></a>
   <a href="#"><img alt="Meistertask" src="https://img.shields.io/badge/Meistertask-00aaff.svg?logo=meistertask&logoColor=white"/></a>
   <a href="#"><img alt="Google suite" src="https://img.shields.io/badge/Google Suite-yellow.svg?logo=google&logoColor=white"/></a>
 </p>
