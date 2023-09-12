@@ -24,7 +24,7 @@ I am open to work 💼, so feel free to contact me on my <a href="https://www.li
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,nodejs,react,tailwind,markdown,mysql,express&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,nodejs,react,tailwind,markdown,mysql,express&theme=dark" />
   </a>
 </p>
 </br>
