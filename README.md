@@ -1,7 +1,7 @@
 <!-- Header section -->
 <p align="center">
   <img src="https://github.com/Arkantik/Arkantik/blob/main/programmer%20work.png" alt="Jeremy Dohin"/></a>
-  <h3 align="center">Currently upgrading to FullStack Web Developer v1.0.0</h3>
+  <h3 align="center">Currently upgrading to FullStack Web Developer v2.0.0</h3>
 </p>
 </br>
 
@@ -9,12 +9,15 @@
 <!-- Introduction section -->
 ### 👨‍💻 Introduction
 <p>
-Hello, im Jeremy. After an experience of 10 years in Transport industry, i've made the choice to take a 180 degree turn in my life to come back to my first love, computers, design and coding.</br>
-Creative, passionated and curious, i'm always looking forward to build beautiful things with the latest technology.
+👋 Hi, I'm Jeremy! Embarking on a fulfilling journey, I'm currently immersed in an apprenticeship as a <b>Computer Scientist in Geoscience</b>, blending technical prowess with a profound understanding of Earth sciences.
 
-I’m currently getting my **FullStack Web & Mobile Developer** certification from **Wild Code School** which is giving me great insight into modern web development needs.
+🚀 With a curious mind and a love for creativity, I find immense joy in crafting elegant solutions using cutting-edge technology. I've discovered a special kind of fun working as a frontend developer, where I channel my skills to create engaging user experiences.
 
-I am open to work 💼, so feel free to contact me on my <a href="https://www.linkedin.com/in/jeremy-dohin/">LinkedIn profile</a> 
+💻 My experience spans both frontend and backend development, giving me a holistic perspective when approaching projects. This dual proficiency ensures seamless integration and a delightful user experience.
+
+💼 Open to exciting opportunities, I invite you to connect on <a href="https://www.linkedin.com/in/jeremy-dohin/" aria-label="linkedin button">LinkedIn</a> for potential collaborations or discussions.
+
+Let's code something amazing together! 💻✨
 </p>
 </br>
 
@@ -24,7 +27,7 @@ I am open to work 💼, so feel free to contact me on my <a href="https://www.li
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,nodejs,react,tailwind,markdown,mysql,express&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,docker,react,angular,tailwind,markdown,nodejs,mysql,express&theme=dark" />
   </a>
 </p>
 </br>
