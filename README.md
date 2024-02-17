@@ -9,7 +9,7 @@
 <!-- Introduction section -->
 ### 👨‍💻 Introduction
 <p>
-👋 Hi, I'm Jeremy! Embarking on a fulfilling journey, I'm currently immersed in an apprenticeship as a <b>Computer Scientist in Geoscience</b>, blending technical prowess with a profound understanding of Earth sciences.
+👋 Hi, I'm Jeremy! Embarking on a fulfilling journey, I'm currently immersed in an apprenticeship as a <b>Computer Scientist in Geoscience</b>.
 
 🚀 With a curious mind and a love for creativity, I find immense joy in crafting elegant solutions using cutting-edge technology. I've discovered a special kind of fun working as a frontend developer, where I channel my skills to create engaging user experiences.
 
