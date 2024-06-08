@@ -27,7 +27,7 @@ Let's code something amazing together! 💻✨
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,docker,react,angular,tailwind,markdown,nodejs,mysql,express&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,docker,react,nextjs,angular,tailwind,markdown,nodejs,mysql,postgres,express&theme=dark" />
   </a>
 </p>
 </br>
