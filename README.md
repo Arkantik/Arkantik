@@ -1,7 +1,7 @@
 <!-- Header section -->
 <p align="center">
   <img src="https://github.com/Arkantik/Arkantik/blob/main/programmer%20work.png" alt="Jeremy Dohin"/></a>
-  <h3 align="center">Currently upgrading to FullStack Web Developer v2.0.0</h3>
+  <h3 align="center">FullStack Web Developer</h3>
 </p>
 </br>
 
