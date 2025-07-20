@@ -11,7 +11,7 @@
 <p>
 👋 Hi, I'm Jeremy! Embarking on a fulfilling journey, I'm a <b>Freelance FullStack Web Developper</b>.
 
-🚀 With a curious mind and a love for creativity, I find immense joy in crafting elegant solutions using cutting-edge technology. I've discovered a special kind of fun working as a frontend developer, where I channel my skills to create engaging user experiences.
+🚀 With a curious mind and a love for creativity, I find immense joy in crafting elegant solutions using cutting-edge technology. I've discovered a special kind of fun working as a web developer, where I channel my skills to create engaging user experiences.
 
 💻 My experience spans both frontend and backend development, giving me a holistic perspective when approaching projects. This dual proficiency ensures seamless integration and a delightful user experience.
 
